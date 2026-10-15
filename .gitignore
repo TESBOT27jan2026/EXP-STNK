@@ -1,0 +1,11 @@
+node_modules
+dist
+*.log
+.env
+.env.*
+!.env.example
+.signal-token
+out/
+apk/*.apk
+apk/libs/*.so
+/_pajak_vm.kt
